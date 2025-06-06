@@ -31,6 +31,8 @@ class ExportTranslationsToTypeScript extends Command
                 continue; // Skip if there's no subdirectory like "en/auth.php"
             }
 
+            array_shift($parts);
+
             $baseKey = str_replace('.php', '', implode('.', $parts)); // Remaining path becomes key prefix
 
             $array = include $file->getRealPath();
