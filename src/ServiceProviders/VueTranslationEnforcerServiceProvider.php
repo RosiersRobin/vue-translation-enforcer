@@ -2,7 +2,7 @@
 
 namespace Robinrosiers\VueTranslationEnforcer\ServiceProviders;
 
-use Commands\ExportTranslationsToTypeScript;
+use Robinrosiers\VueTranslationEnforcer\Commands\ExportTranslationsToTypeScript;
 use Illuminate\Support\ServiceProvider;
 
 class VueTranslationEnforcerServiceProvider extends ServiceProvider
