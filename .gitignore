@@ -1,0 +1,8 @@
+# Composer Related
+composer.lock
+/vendor
+
+# Editors
+/.idea
+/.vscode
+.DS_Store
