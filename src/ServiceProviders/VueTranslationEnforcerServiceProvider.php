@@ -1,5 +1,7 @@
 <?php
 
+namespace Robinrosiers\VueTranslationEnforcer\ServiceProviders;
+
 use Commands\ExportTranslationsToTypeScript;
 use Illuminate\Support\ServiceProvider;
 

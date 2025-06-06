@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "robinrosiers/vue-translation-enforcer",
     "description": "Small package that enforces the use of existing translation strings in vue",
     "keywords": [
