@@ -71,6 +71,8 @@ To regenerate the translations array, simply run
 php artisan vte:export
 ```
 
+**Tip:** Place this in your deploy script **before** you build the project. If you don't, it will fail the build.
+
 ## Contributing
 
 Package is open for pull requests!
