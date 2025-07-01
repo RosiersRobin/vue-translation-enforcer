@@ -1,6 +1,6 @@
 <?php
 
-namespace Robinrosiers\VueTranslationEnforcer\Commands;
+namespace Rosiersrobin\VueTranslationEnforcer\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;

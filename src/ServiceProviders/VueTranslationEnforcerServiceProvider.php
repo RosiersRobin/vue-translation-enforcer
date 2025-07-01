@@ -1,8 +1,8 @@
 <?php
 
-namespace Robinrosiers\VueTranslationEnforcer\ServiceProviders;
+namespace Rosiersrobin\VueTranslationEnforcer\ServiceProviders;
 
-use Robinrosiers\VueTranslationEnforcer\Commands\ExportTranslationsToTypeScript;
+use Rosiersrobin\VueTranslationEnforcer\Commands\ExportTranslationsToTypeScript;
 use Illuminate\Support\ServiceProvider;
 
 class VueTranslationEnforcerServiceProvider extends ServiceProvider

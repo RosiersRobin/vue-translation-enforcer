@@ -6,7 +6,7 @@ Small package that enforces the use of existing translation strings in vue
 You can install the package via composer:
 
 ```bash
-composer require robinrosiers/vue-translation-enforcer
+composer require rosiersrobin/vue-translation-enforcer
 ```
 
 Install Laravel Vue i18n package:
@@ -83,7 +83,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Robin Rosiers](https://github.com/robinrosiers)
+- [Robin Rosiers](https://github.com/rosiersrobin)
 - [All Contributors](../../contributors)
 
 ## License

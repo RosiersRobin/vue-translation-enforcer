@@ -1,6 +1,6 @@
 {
     "version": "1.0.6",
-    "name": "robinrosiers/vue-translation-enforcer",
+    "name": "rosiersrobin/vue-translation-enforcer",
     "description": "Small package that enforces the use of existing translation strings in vue",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "translations",
         "enforcing"
     ],
-    "homepage": "https://github.com/robinrosiers/vue-translation-enforcer",
+    "homepage": "https://github.com/rosiersrobin/vue-translation-enforcer",
     "license": "MIT",
     "authors": [
         {
@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Robinrosiers\\VueTranslationEnforcer\\": "src/"
+            "Rosiersrobin\\VueTranslationEnforcer\\": "src/"
         }
     },
     "scripts": {
@@ -42,7 +42,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Robinrosiers\\VueTranslationEnforcer\\ServiceProviders\\VueTranslationEnforcerServiceProvider"
+                "RosiersRobin\\VueTranslationEnforcer\\ServiceProviders\\VueTranslationEnforcerServiceProvider"
             ]
         }
     },
