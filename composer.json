@@ -42,7 +42,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "RosiersRobin\\VueTranslationEnforcer\\ServiceProviders\\VueTranslationEnforcerServiceProvider"
+                "Rosiersrobin\\VueTranslationEnforcer\\ServiceProviders\\VueTranslationEnforcerServiceProvider"
             ]
         }
     },
